@@ -29,7 +29,9 @@ I am passionate about creating solutions that leverage the power of data and mac
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table style="border:none">
+<tr style="border:none">
+<td style="border:none" valign="top" width="50%">
 
 - 🔭 I’m currently working on [Viral Nation_Secure](https://www.viralnation.com/solution/secure/)  
   
@@ -46,16 +48,16 @@ I am passionate about creating solutions that leverage the power of data and mac
 - ⚡ Fun fact: I am an avid gamer and would like to stream some day  
 
 
-</td><td valign="top" width="50%">
-
+</td>
+<td style="border:none" valign="top" width="50%">
 <div align="center">
 <img src="./images/nikhilraj1997.jpg" align="center" height="300" width="300" style="border: 1px solid #ddd;
   border-radius: 4px;
   padding: 5px;" />
 </div>  
-
-
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
@@ -97,12 +99,13 @@ I am passionate about creating solutions that leverage the power of data and mac
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
+<table style="border:none">
+<tr>
+<td style="border:none" valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=nikhilraj1997&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
+</td>
+<td style="border:none" valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilraj1997&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
+</td>
+</tr>
+</table>
