@@ -78,6 +78,4 @@ I am passionate about creating solutions that leverage the power of data and mac
 
 ## Github Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilraj1997&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="nikhilraj1997" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilraj1997&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="nikhilraj1997" /></p>
